@@ -1,0 +1,4 @@
+cluster,tickets_count,first_response_minutes,resolution_minutes,messages_count,reopen_count,backlog_at_creation,previous_tickets_90d
+0,646,124.6,1341.3,7.5,0.5,50.1,2.5
+1,999,13.4,180.9,3.1,0.1,10.0,1.0
+2,855,34.7,801.6,14.4,1.7,20.1,5.0
