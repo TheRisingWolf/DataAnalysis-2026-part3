@@ -3,8 +3,8 @@
 Раздел соответствует теме **«Первичная визуализация данных»**. Английское имя используется как технический путь GitHub.
 
 ## Материалы / Materials
-- [Integrated project visualization notebook](../../Занятие 10 Первичная визуализация данных/Пример 1/06_data_integration/integrated_project/notebooks_student/05_basic_visualization.ipynb)
-- [Advanced support analytics EDA notebook](../../add-classical-data-analytics/shared/cases/support_analytics/notebooks/student/01_data_quality_eda_student.ipynb)
+- [Integrated project visualization notebook](../../01_foundations/06_data_integration/integrated_project/notebooks_student/05_basic_visualization.ipynb)
+- [Advanced support analytics EDA notebook](../../shared/cases/support_analytics/notebooks/student/01_data_quality_eda_student.ipynb)
 
 ## Как использовать
 Перед корректным запуском начального ноутбука "05_basic_visualization.ipynb" по теме "Первичная визуализация данных" запустите ноутбук "03_data_integration.ipynb" от самого начала до конца (от самой первой ячейки с кодом до самой последней ячейки с кодом включительно) для создания необходимых подготовленных данных. 
