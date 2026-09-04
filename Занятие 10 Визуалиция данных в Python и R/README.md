@@ -4,7 +4,9 @@
 
 ## Материалы / Materials
 - [Python visualization notebook](../../01_foundations/06_data_integration/integrated_project/notebooks_student/05_basic_visualization.ipynb)
+**Ссылка на пример:** [Открыть 05_basic_visualization](https://github.com/TheRisingWolf/DataAnalysis-2026-part3/blob/main/Занятие%2010%20Первичная%20визуализация%20данных/Пример%201/06_data_integration/integrated_project/notebooks_student/05_basic_visualization.ipynb)
 - [R data-processing topic](../../02_processing/05_r/)
+**Ссылка на пример:** [Открыть 05_basic_visualization](https://github.com/TheRisingWolf/DataAnalysis-2026-part3/tree/main/Занятие%2010%20Визуалиция%20данных%20в%20Python%20и%20R/05_r)
 
 ## Как использовать
 
